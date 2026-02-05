@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_maximalist_class_struggle",
+  "title": "The Marble Ledger",
+  "tagline": "The gods demand a perfect temple, but the men who build it keep their own accounts.",
+  "target_words": 70000,
+  "actual_words": 76357,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bodily Cost of Immortality",
+    "The Architecture of Oppression",
+    "Silent Revolt in a Noisy Polis",
+    "The Inherited Burden"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Dove's Throat",
+      "words": 3180
+    },
+    {
+      "ch": 2,
+      "title": "The Dust of the Agora",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Price of Symmetry",
+      "words": 3150
+    },
+    {
+      "ch": 4,
+      "title": "The Slave's Chisel",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "The Widow's Obol",
+      "words": 3250
+    },
+    {
+      "ch": 6,
+      "title": "The Oracle's Silence",
+      "words": 3050
+    },
+    {
+      "ch": 7,
+      "title": "The Symposium's Shadow",
+      "words": 3350
+    },
+    {
+      "ch": 8,
+      "title": "The Flute-Girl's Testimony",
+      "words": 3120
+    },
+    {
+      "ch": 9,
+      "title": "The Trireme's Ghost",
+      "words": 3280
+    },
+    {
+      "ch": 10,
+      "title": "The Metope's Lie",
+      "words": 3150
+    },
+    {
+      "ch": 11,
+      "title": "The Foreman's Ledger",
+      "words": 3220
+    },
+    {
+      "ch": 12,
+      "title": "The Water-Skin Conspiracy",
+      "words": 2980
+    },
+    {
+      "ch": 13,
+      "title": "The Architect's Blindness",
+      "words": 3400
+    },
+    {
+      "ch": 14,
+      "title": "The Pnyx's Echo",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "The Bronze Dowel",
+      "words": 3050
+    },
+    {
+      "ch": 16,
+      "title": "The Sacrificial Goat",
+      "words": 3300
+    },
+    {
+      "ch": 17,
+      "title": "The Frieze of the Forgotten",
+      "words": 3250
+    },
+    {
+      "ch": 18,
+      "title": "The Smell of Myrrh",
+      "words": 3120
+    },
+    {
+      "ch": 19,
+      "title": "The Crack in the Drum",
+      "words": 3180
+    },
+    {
+      "ch": 20,
+      "title": "The Night of the Dryad",
+      "words": 3350
+    },
+    {
+      "ch": 21,
+      "title": "The Heel of Skaros",
+      "words": 3200
+    },
+    {
+      "ch": 22,
+      "title": "The Unseen Procession",
+      "words": 3150
+    },
+    {
+      "ch": 23,
+      "title": "The Weight of a Name",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "The Colour of Indifference",
+      "words": 3450
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene from the perspective of a high-grade slave artisan (an *empolos* or sculptor) who despises both the citizen masters and the unskilled *thetes*, exploring their precarious social limbo.",
+      "Draft a monologue by Pericles or a similar statesman, justifying the use of League funds and mass labour for the Parthenon as a necessary civic and spiritual project.",
+      "Create a 'found document'—a worn scrap of a foreman's ledger, a charcoal sketch on a pottery shard by a labourer, or a coded message passed between workers.",
+      "Write a myth or parable invented and told by the workers at night, re-casting the gods as cruel overseers or the Titans as the first labourers."
+    ],
+    "technical": [
+      "Build an interactive map of the Acropolis worksite, tagging locations with audio clips of different sounds (chisels, groaning ropes, foreman's shouts, philosophical debate) to create an immersive sonic class landscape.",
+      "Create a 'Burden Calculator' that visualizes the cumulative weight lifted by Nikias and his crew over the novel's timeline, translating it into modern equivalents (e.g., number of warships, stacks of currency)."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Bertolt Brecht",
+      "Mary Beard",
+      "Ursula K. Le Guin",
+      "Karl Marx"
+    ]
+  },
+  "cover_prompt": "A colossal, unfinished marble column lies cracked and toppled across a quarry floor, its immense weight crushing a simple wooden abacus and scattering clay tokens, while the ghostly, translucent forms of idealized gods look on from the clouds above, indifferent. The scene is set in a sun-blasted Greek quarry at dusk, with exhausted, sinewy laborers in the shadows, their backs scarred and tools discarded, as one young man silently carves a tiny, defiant symbol into the base of the fallen stone. In the hyper-detailed, classically-infused and socially-charged style of painter Anselm Kiefer, with the monumental texture and tragic grandeur of Thomas Cole's ruins. Book cover framing, centered and monumental composition, low-angle shot looking up at the fallen column as if from the perspective of the workers. Dramatic chiaroscuro lighting with long, deep shadows cutting across the marble, a palette of bone-white stone, ochre dust, bruised twilight purple, and the warm, dying ember glow of the horizon. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
