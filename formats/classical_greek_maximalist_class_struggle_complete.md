@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The marble was not white. It was the colour of a dove’s throat, of a sun-bleached bone, of a god’s indifference. And it was heavy. The weight of it, a block the size of a man’s torso, settled into the hollow of Nikias’s shoulder with a familiarity that was a kind of hatred. His sandals, soles worn to a slickness that mocked the very concept of traction, whispered a dry protest against the dust of the Acropolis ramp. Ahead of him, a line of men, their backs identically bent, formed a living frieze of burden against the impossible blue of the Attic sky. They were ants bearing the carcass of a titan.
+Dust from the Piraeus road coated the sandaled feet of the slave, but it was the dust of the Agora—fine, white, expensive—that choked the philosopher. He paid for the air he breathed with coins minted from the slave’s sweat, and both men, ascending the hill, understood this arithmetic of gods and men.
+
+
 
 “Step, you hollow-legged sons of bitches!” The voice of Philon, the foreman, was a whip-crack of gravel and privilege. He stood to the side, a slab of olive-oiled muscle in a clean chiton, his shadow a cool, stationary blotch the labourers would kill for. “The architect walks the site at noon. He wants to see the drum set for the fourth column of the Periclean porch. Not next week. Not tomorrow. Now.”
 
